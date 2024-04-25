@@ -13,4 +13,4 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/HotIceCoffee/count
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HotIceCoffee&layout=compact&theme=tokyonight)
 
 ### My Skill Set
-![](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)![](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
